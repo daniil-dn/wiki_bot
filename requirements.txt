@@ -1,0 +1,10 @@
+telebot
+pyTelegramBotApi
+flask
+pymongo
+wikipedia
+telegraph
+requests
+bs4
+lxml
+gunicorn
